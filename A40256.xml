@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something in answer to a book called Fiat lux being a discourse between a papist and a Protestant &amp;c. who writes at the bottom of the title page, J.V.C. : also something in answer to the papists queries.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40256</idno>
+            <idno type="STC">Wing F1910</idno>
+            <idno type="STC">ESTC R25206</idno>
+            <idno type="EEBO-CITATION">08793783</idno>
+            <idno type="OCLC">ocm 08793783</idno>
+            <idno type="VID">41854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41854)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1259:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something in answer to a book called Fiat lux being a discourse between a papist and a Protestant &amp;c. who writes at the bottom of the title page, J.V.C. : also something in answer to the papists queries.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>J. V. C. --  (John Vincent Canes), d. 1672. --  Fiat lux.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41854:1"/>
+            <pb facs="tcp:41854:1" rendition="simple:additions"/>
+            <p>Something in ANSWER To a BOOK called, Fiat LUX, BEING A Diſcourſe between a <hi>Papiſt</hi> and a <hi>Proteſtant,</hi> &amp;c. who writes at the bottom of the Title Page, <hi>J.V.C.</hi>
+            </p>
+            <p>ALSO Something in Anſwer to the <hi>Papiſts QUERIES.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:41854:2"/>
+            <pb n="3" facs="tcp:41854:2" rendition="simple:additions"/>
+            <head>Something in Anſwer to a BOOK CALLED <hi>FIAT LUX.</hi>
+            </head>
+            <p>HE ſpeakes in his 20<hi rend="sup">th</hi>. <hi>Page, Of waging of War, Battel, and Contention, like Boys, and Dogs in the Streets, who tear and devour one another; ſuch as are jumpt up together, unheard of,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Hath not this been your condition, who have ſtarted up after the Apoſtles? Or, were ever the Papiſts heard of, with all your Body of Inventions in the Apoſtles dayes, that be like Boyes and Dogs, fighting and tearing to pieces others that will not conform, to your trifling Traditions, and empty Ceremonies? Yea and with ſuch as follow the Apoſtles Doctrine, and do not preſume above what is written, according to the Apoſtles Doctrine, and becauſe ſuch cannot ſubmit to your Rudiments, which you have preſumptu<g ref="char:EOLhyphen"/>ouſly ſet up, Have you not burnt many to aſhes? which is far worſe than Boyes and Dogs, <hi>&amp;c.</hi>
+            </p>
+            <p>And whereas thou querieſt in <hi>Page</hi> 29. <hi>Whether the Word of God came to you</hi> Quakers? <hi>&amp;c.</hi> Or, <hi>Came it to you only?</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> The Word of God came unto us before we preached it, which is the ſame which was among the Apoſtles, and is the ſame which was yeſterday, to day, and for ever. But you Papiſts and Pro<g ref="char:EOLhyphen"/>teſtants, and others, are gone from this never changable Word, as is manifeſt by your trifling Traditions, who hold them up by car<g ref="char:EOLhyphen"/>nal Weapons, contrary to the Apoſtles and the <hi>Quakers,</hi> which are ſpiritual.</p>
+            <p>And whereas thou querieſt, <hi>Whether the Goſpel came to the Pope and Papiſts firſt?</hi>
+            </p>
+            <p>We <hi>anſwer,</hi> No. For the Goſpel of Chriſt (which is the Power of God) was preached to <hi>Abraham:</hi> but the fruits of you Papiſts and others, have denyed your ſelves to be in this Goſpel (to wit, the
+<pb n="4" facs="tcp:41854:3"/>Power of God which brings Life and Immortality to Light) by your dark Inventions and Traditions, Perſecutions and Oppreſſions, which is not, nor was not, the Goſpel-Practice; as, look among the Apoſtles writings in the Primitive Church, and ſee how far you are degenerated from them.</p>
+            <p>And thou ſayeſt, <hi>That the Spirit, the Word, the Lord, the Light, and ſuch like, are Motives of a new Fancy.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To the Papiſts, and others like unto them, that be out of the Spirit, Light, Word, and the Lord, and have caſt him and the Apoſtles behind their backs, and followed their own Inventions, and have perſecuted one another for not obſerving them (who are in your fancies) the Spirit, Light, Word, and the Lord, are new fancies to you (but to us they are ſubſtance) who ſet up and tole<g ref="char:EOLhyphen"/>rate your lies by your Laws, and prefer them before the Lord, his Spirit, Word, Light and Truth, which were, and are the Guide of the Righteous to this day; amongſt whom, your Inventions were never heard off before your day, which all are to beware of.</p>
+            <p>And, <hi>Them that be Hereticks,</hi> thou ſayeſt, <hi>are to be checked twice or thrice, and then to be avoided.</hi>
+            </p>
+            <p>To which we <hi>Anſwer,</hi> This hath not been the Papiſts practice to them that you ſuſpect to be Hereticks, that joyn not to your Popiſh wayes, for you Burn and Perſecute them to Death; but if you had left them after you had admoniſhed them, ye had done ſomething ac<g ref="char:EOLhyphen"/>cording to Scripture: but on the contrary, you ſhew thereby, that you have no Love to Enemies, no Sun to ſhine upon the Unjuſt, not having the mind of Chriſt nor of his Apoſtles, nor no Sons of God, but of the Phariſees brood.</p>
+            <p>And whereas thou ſpeakeſt of the <hi>Church Interpreting Scriptures.</hi> How can the <hi>Papiſt Church Interpret Scriptures,</hi> when the <hi>Jeſuites</hi> have ſaid to our faces, that they have not the ſame ſpirit that the Pro<g ref="char:EOLhyphen"/>phets and Apoſtles had. And ſeeing Chriſt ſaith, <hi>The Spirit of Truth ſhall lead you into all Truth;</hi> and the Apoſtle ſaith, <hi>That no man know<g ref="char:EOLhyphen"/>eth the things of God but the Spirit of God.</hi> And <hi>John</hi> ſaith, in the <hi>Re<g ref="char:EOLhyphen"/>velationss</hi> to the Churches, <hi>Hear what the Spirit ſaith.</hi> There fore the Papiſt Church not having the ſame Spirit, they cannot in<g ref="char:EOLhyphen"/>terpret Scriptures &amp; ſo they are judged out of their own mouthes. And the Spirit of God doth lead to hate the works of the Devil, <hi>who was a lyar from the beginning,</hi> and all his Children do his will; and who have done his will more then the Papiſts? yea, worſe than the
+<pb facs="tcp:41854:3"/>Phariſees; for they never invented ſo many Racks and Tortures as ye have done, and burnt ſo many to aſhes ſince <hi>Boneface</hi> the third, the Univerſal Pope, ſet up by <hi>Phocus</hi> the Emperour. And ſo ye that ſcoffe at the Light, <hi>&amp;c.</hi> not having the ſame Spirit and Pow<g ref="char:EOLhyphen"/>er as the Apoſtles had, you'l Rack, and Torture and Impriſon, and Burn to aſhes your Friends; for, how can ye diſcern them, not having the ſame Spirit the Apoſtles had? We think you <hi>Papiſts, Proteſtants, Preſbyterians, Independants</hi> and <hi>Baptiſts</hi> might agree, for they confeſs the ſame that you do, <hi>viz. That they have not the ſame Spirit the Apoſtles had;</hi> then ye have another, for there is but two Spirits; and it's much ye ſhould make ſuch a noiſe one againſt ano<g ref="char:EOLhyphen"/>ther, and cannot agree. But your Inventions are old and theirs are new, and both things in Gain to you, which maintains your Luſts, and that raiſeth your war one againſt another, which they that are in the Spirit the Apoſtles were in, ſee over you all; and they that be in the Spirit, have both Viſions and Propheſies, and by it hath Miracles been wrought, which ſome of your Generation hath ſaid, as the <hi>Phariſees</hi> did to Chriſt, <hi>That they were wrought by the power of the Devil.</hi>
+            </p>
+            <p>And whereas thou ſayeſt, <hi>Page</hi> 51. <hi>The Roman Catholicks brought the news of Chriſt and Chriſtianity into the Land first.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We ſay No. Chriſt and Chriſtianity was brought into this Land of <hi>England,</hi> by <hi>Joſeph</hi> of <hi>Arimathea,</hi> and twelve Diſciples ſent by <hi>Philip</hi> the Apoſtle above 70 years after Chriſt, which was many hundred years before there was any Univerſal Pope, and ma<g ref="char:EOLhyphen"/>ny years before any Maſs was ſet up.</p>
+            <p>And whereas thou ſpeakeſt in <hi>Page</hi> 53, of ſuch as ſay of Chriſt, <hi>Loe he's here, Loe he's there.</hi>
+            </p>
+            <p>We <hi>Anſwer,</hi> This is juſt your own condition; for do you not make a Chriſt of Bread, which you call your God, and lift him up, and when you have eaten up one, you make another, lift him up, and carry him about ſtreets, crying, <hi>The Hoaſt,</hi> and call it the <hi>Sa<g ref="char:EOLhyphen"/>crament of the Altar;</hi> and when you have eaten him up alſo, do you not make another, and cry, <hi>Loe here, loe there is Chriſt?</hi> But the <hi>Quakers</hi> when they have received Chriſt, preach him (as the Apo<g ref="char:EOLhyphen"/>ſties did) <hi>when the Son of God is revealed in them,</hi> &amp;c.</p>
+            <p>And <hi>Jobs</hi> words, now adayes, are not ſo eaſie to anſwer as thou thinkeſt; for why have not you <hi>Papiſts</hi> anſwered all the <hi>Quakers Queries</hi> that have been put to you? Thou mayeſt ſay, <hi>We want Queen</hi>
+               <pb facs="tcp:41854:4"/>Mary, <hi>and Biſhop</hi> Bonner, <hi>who anſwered by Fire and Faggot</hi> (to the deſtruction of the Righteous) for that hath been your way of an<g ref="char:EOLhyphen"/>ſwering; but this hath never been the work of the Church of Chriſt, nor of godly Rulers, as thou ſpeakeſt of.</p>
+            <p>And whereas thou ſayeſt, in <hi>Page</hi> 93. <hi>The Holy Church hath al<g ref="char:EOLhyphen"/>wayes, in all Ages, forbidden her Children to Diſpute the Principles of Religion in the ſence they had received them.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is the Papiſts Church (not the Holy Church) and its Principles, and it is falſe, as to the Holy Church; they were <hi>to be ready to give an account to every man of the Hope that is in them, with meekneſs and fear;</hi> which Hope is Chriſt. And the Apoſtle de<g ref="char:EOLhyphen"/>clared plainly when brought before the Magiſtrates, how Chriſt ap<g ref="char:EOLhyphen"/>peared to him, and how he was ſent to Preach. And the true Church was <hi>to contend for the Faith which was delivered to the Saints;</hi> and they were to ſpeak in the ſame ſence of Faith which they had received. For the Apoſtles ſaid, <hi>They were to warn every man, that they might preſent every man perfect in Christ Jeſus.</hi> And ſo it's plain that the Apoſtles and the Prophets <hi>ſpake as they were moved by the Holy Ghoſt,</hi> in the ſence of what they received.</p>
+            <p>And whereas thou ſayeſt, <hi>That all Chriſtians are to acknowledge a new Pope,</hi> &amp;c.</p>
+            <p>To which we <hi>Anſwer,</hi> No. The Chriſtians that now are, as alſo in the Primitive times, are <hi>Brethren;</hi> and it is not among them as it was amongſt the Apoſtates, which are as the Gentiles, <hi>who exerciſe Lordſhip one over another;</hi> and thoſe that do ſo, are by you and them called <hi>Gracious Lords.</hi> But Chriſt ſaith, <hi>It ſhall not be ſo amongſt you,</hi> meaning his Diſciples, <hi>for ye are Brethren;</hi> and <hi>ye have but one Ma<g ref="char:EOLhyphen"/>ſter even Chriſt.</hi> And as the Apoſtle ſaith, <hi>In the world there are ma<g ref="char:EOLhyphen"/>ny Lords, but to us there is but one, even the Lord Jeſus Christ, who is Head of the Church:</hi> Yea, Head of that Church which the Saints upon the Earth then, and which we now, are Members of, who is our Head, the ſame to day, yeſterday, and for ever; though he is not ſo to the Papiſts.</p>
+            <p>And whereas thou ſpeakeſt, <hi>That by reaſon of the great obſcurity of things, we are led into ſo many differences.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> What is the reaſon indeed you with others are ſo dark and obſcure, that you are not in the ſame Spirit and Power that the Apoſtles were in, and being out of it you go into ſo many Sects and Diviſions.</p>
+            <p>
+               <pb n="7" facs="tcp:41854:4"/>
+And whereas thou ſpeakeſt, <hi>Of learning the Foundation upon which Faith is built.</hi>
+            </p>
+            <p>To which we <hi>Anſwer,</hi> Your works, and others do teſtifie, that you have forſaken both Foundation, good Conſcience, and Faith that works by Love; for the Hiſtorical or dead Faith, works by ha<g ref="char:EOLhyphen"/>tred, and the foundation of that is the Adverſary the Devil.</p>
+            <p>And whereas thou ſpeakeſt, <hi>In</hi> England, <hi>of ſome that pretend to a new Light.</hi>
+            </p>
+            <p>To which we <hi>Anſwer,</hi> That Chriſt is the Light, who is the new and living Way. It's indeed a new way to you who are apoſtatized from the Light which the Apoſtles were in, and the Life and Spirit, the fruits whereof are Love, <hi>&amp;c.</hi> But ye have manifeſted another ſpirit and fruits: As remember the Burning in <hi>Smithfield,</hi> and Cru<g ref="char:EOLhyphen"/>elties in other parts, as the <hi>Maſſacre</hi> in <hi>Ireland,</hi> and other parts of the world; your putting to death for your Religion, which the Apo<g ref="char:EOLhyphen"/>ſtles did not for their Religion; which Light of Chriſt was their Light, which is now ſprung up in <hi>England,</hi> is become a new Light unto you, who are workers of Darkneſs.</p>
+            <p>And whereas thou ſayeſt, <hi>The Quakers words are jumbled toge<g ref="char:EOLhyphen"/>ther, ſo that every Line hath no ſence in it:</hi> and thou reſembleſt them to the <hi>Turks Alkaron.</hi>
+            </p>
+            <p>To which we anſwer, To you the Prophets, Apoſtles, and Chriſts words are not ſenſe, for if they were, then what need you thruſt all theſe words of ſmall Letters, into the Books of the Old and New Teſtament, called the <hi>Itallick</hi> Letter; ſignifying, that they are no more ſence to you than the <hi>Quakers</hi> Books, who make an addition to them. Therefore we do not ſtrange at thy ſaying, <hi>That our Writ<g ref="char:EOLhyphen"/>ings are nonſence;</hi> but we can ſay to you as <hi>Solomon</hi> ſaith, <hi>That our words are all plain to him that is of Underſtanding.</hi>
+            </p>
+            <p>And as for the <hi>Turkiſh Alkaron:</hi> Whoſe Writings are nearer un<g ref="char:EOLhyphen"/>to them than the Papiſts are? Set all your old Images aſide, which you have neither out of the Old Teſtament, nor of the New, but from your own dreaming conceit, that you ſpeak of.</p>
+            <p>And whereas thou ſpeakeſt, <hi>Of the</hi> Preſbyterian <hi>falling out with the</hi> Proteſtant, <hi>and calling him a</hi> Fanatick; <hi>the</hi> Catholick <hi>coming by and ſeeing them, doth hope that they may come to their Goods again,</hi> &amp;c.</p>
+            <p>
+               <hi>A.</hi> You want power to ſet up your Fire and Fagots again, and you long after your Tythes, and great Monaſtries, and Gleab Land, <hi>&amp;c.</hi>
+               <pb facs="tcp:41854:5"/>For if you had minded the good of Peoples ſouls, why would ſo ma<g ref="char:EOLhyphen"/>ny thouſands of you have turned from your Religion, as your Prieſts and others in Queen <hi>Elizabeths</hi> dayes did? And as for Fanatick<g ref="char:EOLhyphen"/>wrath, fury, rage and madneſs, who hath manifeſted this ſpirit ſince the Apoſtles dayes more then you, yea, upon ſuch as have profeſſed the Name of Chriſt? And while you and other Sects are falling out, Truth will ariſe over all your heads, as it was in <hi>England,</hi> and o<g ref="char:EOLhyphen"/>ther parts, before the <hi>Pope</hi> and his <hi>Maſs-Book,</hi> or you <hi>Papiſts</hi> were. And as for <hi>Catholick,</hi> your actions and fruits have declared and te<g ref="char:EOLhyphen"/>ſtified againſt you, to deny the <hi>Catholick Faith</hi> that works by <hi>Love,</hi> and the <hi>Catholick Goſpel,</hi> and the <hi>Catholick Church</hi> with its <hi>Catholick Head.</hi> And the <hi>Quakers</hi> have to war in the Spirit of God with you, and alſo with all ſuch as are in your Dreggs, and be out of the ſame Spirit that the Prophets and Apoſtles were in.</p>
+            <p>And to the Querie in <hi>Page</hi> 188. We <hi>Anſwer,</hi> That neither <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> nor <hi>you</hi> have lived in <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> theſe ſeveral hundred years; for you have laid more ſtumbling blocks to hinder the ſpreading of Chriſtianity, then ever did <hi>Jezabel</hi> by <hi>Baals</hi> Prieſts. And as for tel<g ref="char:EOLhyphen"/>ling you of ſeveral hundred years, it was above 600 years after Chriſt before any Univerſal Biſhop got up. And then the Turk got up after the <hi>Pope,</hi> and he got from him near as much as all Chriſten<g ref="char:EOLhyphen"/>dom: and then did not he loſe <hi>Germany, England, Ireland, Scotland, Denmark, Sweden</hi> and the <hi>Low-Coutries,</hi> yea and <hi>Egypt, Jeruſalem</hi> and other parts that way, and part of <hi>France,</hi> and yet will not the <hi>Pope</hi> tell us, that he is Head of the Church, and that the Gates of Hell ſhall not prevaile againſt him? And what ſtrivings were there in <hi>Italy</hi> and <hi>Spain,</hi> and other places, before you ſet up your <hi>Inqui<g ref="char:EOLhyphen"/>ſitions,</hi> about the time of the Council of <hi>Trent.</hi> And as for your <hi>Vaity,</hi> let us tell you, if you have forgotten, Did the <hi>Waldenſes</hi> ever joyn to you, after the <hi>Pope</hi> got up? Nay, did not they gall him more then all? and did not he ſend a Prince to deſtroy them, and did not the Lord turn him back again empty? Read the Coun<g ref="char:EOLhyphen"/>cil of <hi>Trent.</hi> And whether or no do the Churches of the <hi>Corinthi<g ref="char:EOLhyphen"/>ans, Philippians</hi> and <hi>Theſſalonians</hi> joyn to the <hi>Pope?</hi> or why hath the <hi>Pope</hi> made ſo many Orders to preſerve the Unity by his <hi>Inqui<g ref="char:EOLhyphen"/>ſitions?</hi>
+            </p>
+            <p>And whereas thou Querieſt, <hi>How came the Bible into</hi> England, <hi>was it not brought up hither at the Lands Converſion by the</hi> Ro<g ref="char:EOLhyphen"/>mans?</p>
+            <p>
+               <pb facs="tcp:41854:5"/>
+               <hi>Anſw.</hi> We ſay again, That many Chriſtians came over into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and preached the Goſpel many hundred years before any Uni<g ref="char:EOLhyphen"/>verſal <hi>Pope</hi> was; and doſt thou think that there were no Books nor Epiſtles brought over before <hi>Boniface</hi> the <hi>Pope</hi> was? whoſe time was 600 years after Chriſt, when that <hi>Joſeph</hi> of <hi>Arimathea</hi> with twelve more, as hath been ſaid, came over within ſeventy years af<g ref="char:EOLhyphen"/>ter Chriſt.</p>
+            <p>And whereas thou marvelleſt, <hi>Of the many wayes of Rebellion in</hi> England <hi>not reconciled, yet have not all this while appealed to the King as Supream Head of the Church; and you have ſecretly murmured againſt Queen</hi> Elizabeth, <hi>and King</hi> James.</p>
+            <p>
+               <hi>Anſw.</hi> We know it, and alſo againſt the King now (its like) you are murmuring as againſt King <hi>James,</hi> is ſufficiently known to this day, and againſt <hi>Elizabeth</hi> too. Do you not remember what ſtriving there was in many parts of the Nation; but what's this? you are troubled becauſe the <hi>Pope</hi> is not Head. It ſeems <hi>the Gates of Hell hath prevailed againſt your Church;</hi> and if ſo, a Lye is found in your right hand, and you not to be the true Church, according to yo<g ref="char:cmbAbbrStroke">̄</g>ur own Doctrine; for proof whereof, you may look about you in <hi>Turkey,</hi> and <hi>Egypt,</hi> and <hi>Jeruſalem,</hi> and all over <hi>Europe.</hi>
+            </p>
+            <p>And whereas thou ſayeſt, <hi>The</hi> Pope <hi>eaſily managed the Peoples Con<g ref="char:EOLhyphen"/>ſciences, and kept them in order and peaceableneſs;</hi> and thou ſayeſt, <hi>the Reaſon is becauſe of the multitude of People about him, and Prieſts, who ſhine like Stars.</hi> And thou ſayeſt, <hi>The Popes for the moſt part are ve<g ref="char:EOLhyphen"/>ry good, yet it may happen that ſome of them are no better than they ſhould be.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here the Clamourous Woman pluck's down her own houſe; for how often have you written, and told People that the <hi>Popes are Infallible, and could not erre?</hi>
+            </p>
+            <p>And as for the <hi>Pope</hi> and his <hi>Prieſts</hi> ſhining like Starrs and keep<g ref="char:EOLhyphen"/>ing the People in peace. Your own Council of <hi>Trent</hi> manifeſts that ſufficiently, and alſo in other parts of the World you may read your Order. But the <hi>Pope</hi> would be in the Throne of God, and be Lord of the Conſciences of People, and have power over mens Faith, contrary to the Apoſtles, who had not power over any mans Faith. And as for ſhining like Stars in the firmament; you have wandred up and down, till you have <hi>darkened the Air,</hi> as <hi>Jude</hi> ſpeakes. But the Everlaſting Goſpel is again preached, which ſhineth over you all.</p>
+            <p>
+               <pb facs="tcp:41854:6"/>
+And whereas thou ſayeſt, <hi>That none of your Eccleſiaſtical benefits were given by Princes and People to maintain Wife and Children, but onely for ſuch as were ſingle, and had conſecrated themſelves,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Is it not better to Marry then to be called <hi>Concubinary Prieſts,</hi> as you were called in the Council of <hi>Trent?</hi> And did not your Benefits maintain the <hi>Poor</hi> aſwell as the <hi>Prieſts?</hi> And how long after Chriſt was it before <hi>Prieſts</hi> were forbidden to Marry? Nay, did not ſome of your own <hi>Popes</hi> allow <hi>Prieſts</hi> to Marry, and af<g ref="char:EOLhyphen"/>terwards denied it again? Truly a man had need have a great deal of patience to read your <hi>Popes</hi> Lives, and Lawes, and Decrees, and Councils, they are ſo full of confuſions and contradictions; though ſtiled <hi>Unerring,</hi> and <hi>Infallible,</hi> they have wholly <hi>erred</hi> from the Apo<g ref="char:EOLhyphen"/>ſtles, and the Scriptures of Truth.</p>
+            <p>And whereas you ſay, <hi>You kneel at your Communion, and you drew a compendious Common Prayer, and you keep up the Pulpits for Catholicks who built them.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Of theſe things you and others have made a Trade of, and in, though none of all theſe things you find among the Apoſtles. The Scripture ſaith, <hi>They ſate when they received the Supper.</hi>
+            </p>
+            <p>And whereas thou compareſt the <hi>Quakers</hi> to <hi>Iſhmael, whoſe hand is againſt every man.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is your own condition, as your actions declare, tho you can flatter ſecretly for your own advantage; have you not deſtroyed <hi>Proteſtants</hi> of all ſorts to make them to bend to your Ru<g ref="char:EOLhyphen"/>diments? But the <hi>Quakers</hi> have an Univerſal Love to all mankind, and are of the Faith of <hi>Abraham,</hi> that <hi>works by Love,</hi> and deſire the everlaſting good of all mankind, of the <hi>Turk</hi> and <hi>Pope</hi> too, as they are Men; if they ſhould come to our Houſes, and want Bread or Drink, we can freely give them ſome, but as for their Religion and wayes we deny. And why doſt thou contradict one of thy fellows ſayings to us, the <hi>Infallibility of the real Preſence;</hi> which ſaid, <hi>The Conſecrated would wear away as the Unconſecrated.</hi>
+            </p>
+            <p>And <hi>Page</hi> 196. thou ſayeſt, <hi>Why doth not the Biſhop of</hi> Canter<g ref="char:EOLhyphen"/>bury <hi>Summon a Council to end the Differences about Religion?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here thou ſeemeſt to be a lover of Peace and Concord, but it is not the Biſhop of <hi>Canterbury,</hi> but it is the <hi>Popes</hi> Authority that thou wouldeſt have up, as in the former <hi>Page,</hi> where thou
+<pb n="11" facs="tcp:41854:6"/>ſpeakeſt of Benefits, and of Single Life, and of you <hi>Catholicks</hi> to come to your right again (whilſt others are fighting) thou would<g ref="char:EOLhyphen"/>eſt ſet them together to haſten the end: but the Serpent is ſeen in his hole and out of it.</p>
+            <p>And whereas thou mentioneſt four Sects, <hi>(viz.) Independants, Preſbyterians, Anabaptiſts</hi> and <hi>Quakers,</hi> of their diſturbing the Peace; thou mighteſt have left out the <hi>Quakers,</hi> and taken the reſt to your ſelves, and been the head of them; for who hath diſturbed the Peace of all Nations more then ye have done? Ye may truly take the right hand of Fellowſhip there.</p>
+            <p>And whereas in <hi>Page</hi> 201. thou ſayeſt, <hi>They are all Infallible, and will not be moved ſo much as to moderation.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thou mighteſt very well have kept in this, and have read the Council of <hi>Trent,</hi> of the <hi>Pope</hi> who ſaid, <hi>He would fire all the world but he would make them obey him.</hi> And read in the <hi>Pagents</hi> of <hi>Popes,</hi> there thou mayeſt ſee, that your <hi>Popes</hi> (which you ſay cannot erre) are more like Beaſts than Men: And ſo your <hi>Immoderation</hi> and <hi>fallibility,</hi> and <hi>erring ſpirit</hi> hath manifeſted it ſelf ſufficiently in <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi> And we who are called <hi>Quakers,</hi> do ſeek the peace of all men, whoſe Weapons are Spiritual and not Carnal, like yours, who have degenerated from the Apoſtles.</p>
+            <p>And whereas thou ſayeſt, <hi>The Reformers cut off and ſlaſhed the An<g ref="char:EOLhyphen"/>tient Faith.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Ye are out of that Faith that works by Love, which is the Antient Faith, and out of the Doctrine of Chriſt and his Apoſtles, and have ſlaſht and cut thoſe that be in it. For where doth he bid you run to Graves for Reliques, and ſet up Images, and dreſs your <hi>Popes</hi> more like to <hi>Stage-players</hi> than <hi>Peter?</hi> for <hi>Peter</hi> and the Apo<g ref="char:EOLhyphen"/>ſtles had none of theſe Titles given unto them, as the <hi>Pope</hi> hath ta<g ref="char:EOLhyphen"/>ken unto himſelf, but ſuch things were forbidden by Chriſt, and he hath exalted himſelf above his brethren; but God is able to bring him down again, for he is of the Image <hi>part Iron, part Clay,</hi> which I would have him to expound. What good doth your Confeſſion do where there is not amendment? For what People under the Sun are more Envious, Proud, Drink, Swear, Curſe, and many unclean Actions found in and amongſt, as yours be?</p>
+            <p>And whereas thou ſayeſt, <hi>Page</hi> 232. <hi>The Confeſſion, nor any be<g ref="char:EOLhyphen"/>ginning thereof cannot be found out.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:41854:7"/>
+               <hi>Anſw.</hi> Therefore you go upon a foundation which had <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bot<g ref="char:EOLhyphen"/>tom; for in the beginning in the Primitive times, the Apoſtles did not ſet up any Confeſſors, therefore you are ſhut out of their Pra<g ref="char:EOLhyphen"/>ctice.</p>
+            <p>And whereas thou ſpeakeſt, <hi>Of inflicting penalties of Scourging or Death upon Delinquents, though they be never ſo ſorry for their Of<g ref="char:EOLhyphen"/>fence.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> In this is much Ignorance; becauſe that you and others have perſecuted one another to Death, becauſe you would not con<g ref="char:EOLhyphen"/>form to one anothers Religion; which ſhews you are like <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar,</hi> and worſe then the <hi>Jewes,</hi> (in ſome reſpect) for did they Perſecute any of the Heathen to death becauſe they would not joyn to their Religion? Though in one reſpect you are like unto the <hi>Jewes,</hi> who ſaid, <hi>Come, let us kill the Heir, and the Inheritance ſhall be ours.</hi> And were not they called Murderers? And have not you crucified Chriſt afreſh and put him to an open ſhame? As inſtance the <hi>Pope Eugenius,</hi> who cauſed the King of <hi>Poland</hi> to break his Oath and League with the <hi>Turk,</hi> upon which he loſt a great part of Chriſtendom; who ſeldom got any thing by fighting or plotting with his Carnal weapon. But if the <hi>Papiſts</hi> had been true Chriſtians, they would have loved one another, and have loved Enemies. But there is no mercy from you, although a man be never ſo ſorry for his Offence, but Death and Scourging; but thy thoughts and mind are not the Lords, <hi>who deſireth not the death of a ſinner, but would have him repent and live.</hi> And therefore, <hi>What haſt thou to do to take the Name of the Lord into thy mouth, and hatest to be reformed?</hi> And as for the Apoſtle <hi>Paul</hi>'s words which he ſpake, as in the perſon of Chriſt, what is that to your practice, who ſpeak in the ſpirit of Satan? as ye may look over your words and actions in <hi>Fox's</hi> Acts and Monuments, and the Council of <hi>Trent,</hi> and other Books, who ſhewed another ſpirit and life than Chriſt and the Apoſtles: for Chriſt came <hi>to ſave mens lives, not to deſtroy them,</hi> as ye have done, who do not know what ſpirit ye are off.</p>
+            <p>And whereas thou ſpeakeſt, <hi>Of ſome places where the People are on their knees at Prayer all the week long: and our Churches are not ſo in</hi> England.</p>
+            <p>
+               <hi>Anſw.</hi> Ye were not at your Prayers all the week long when ye had power in <hi>England,</hi> and were burning the Martyrs to aſhes, up
+<pb n="13" facs="tcp:41854:7"/>and down at Stakes. The Wolf is ſeen though he hath the Sheeps cloathing on his back; thou canſt not be hid, but the wiſe and pru<g ref="char:EOLhyphen"/>dent ſee and comprehend thee; and <hi>the prayers of the wicked are an abomination to the Lord.</hi> For hath it not been a <hi>Fiſt of wickedneſs</hi> that ye have lifted up theſe many hundred years? Doth not, and hath not your actions declared and ſpoken them abroad in the ears of ſober People? Where is the <hi>Houſe of Prayer</hi> thou ſpeakeſt of? Is it the Temple at <hi>Jeruſalem,</hi> which thou art wandring to? That's down, according to Chriſt's Propheſie. And the Apoſtles ſay, <hi>Our Bodies are the Temples of the holy Ghoſt;</hi> and in the Holy Ghoſt we are to pray. And is not that the Temple, ſet above all houſes made with hands? and ſo the Apoſtle ſaith, we muſt pray in the Spirit, and ſo we muſt pray in the Temple; but this I doubt thou canſt not read with thy Spectacles on.</p>
+            <p>And whereas thou ſayeſt, <hi>Ye have kept your Maſs and Bible in an unknown Tongue, and yet you call your ſelves</hi> Catholick.</p>
+            <p>
+               <hi>Anſw.</hi> This is not <hi>Catholick</hi> from the Apoſtle, for he was againſt them <hi>that ſpake in an unknown tongue,</hi> that was not to edification, and he reproves it; ſo ye are come under the reproof of the Apo<g ref="char:EOLhyphen"/>ſtle. And the Apoſtle ſent Epiſtles to be read to the Churches in their age: and now you that have put the Bible in an <hi>unknown Tongue,</hi> and kept your people under teaching ever ſince <hi>Boniface</hi> the third, are not your People capable yet to have the Scriptures read to them in their own Tongue? This manifeſts your <hi>Popiſh</hi> Teachers bad, and your Peoples ignorance, and your own deceit and fear of your ſelves, if the people ſhould have them in their own Tongue, they would ſee you. And whereas you make a diſtinction of Lay people and Spiritual, and yet all Believers; if they were ſo indeed, <hi>they would be all born of God.</hi> And the Apoſtles in the Pri<g ref="char:EOLhyphen"/>mitive time made no ſuch diſtinction as Lay people and Spiritual among Believers, <hi>&amp;c.</hi> as ye do. But ye have been in the dark, and your works are all in the dark, and ſo ye keep the Scripture from the people in their own Tongue, whereby they might come to know the Truth. And the holy Scriptures are a better Book than any ye can make, which ſtands over you and your Maſs Book.</p>
+            <p>As for all your perverting Scriptures, thereby thinking to bend them to your Traditions and Images, they that have a ſingle eye fees it's to no purpoſe. And as for calling upon <hi>Saints, Angels,</hi> and
+<pb n="14" facs="tcp:41854:8"/>
+               <hi>Martyrs</hi> to pray for you, to have mercy upon you, for which you have neither Scripture nor Example from the Apoſtles. And wheras thou ignorantly and pervertingly bringeſt <hi>Davids</hi> words, and <hi>Daniels,</hi> for the praying to Angels, <hi>&amp;c.</hi> and the Sun and Moon: <hi>David</hi> nor none of the Saints nor Martyrs of old did call to the Sun, Moon, Angels, or Saints, but they called for all things to praiſe the Lord; for whilſt they were living, the Saints prayed one for another, but to pray to Saints departed, is like <hi>Sauls</hi> going to the Witch of <hi>Endor,</hi> to ask counſel of the Dead, which was forbidden by the Law of God. So in this you are ignorant both of Law and Goſpel. Many other fri<g ref="char:EOLhyphen"/>volous things thou haſt in thy Book not worth reading or anſwering.</p>
+            <p>But one thing further; whereas thou ſaieſt, <hi>The Church of Rome is the Mother Church.</hi> Was not the Church of <hi>Jeruſalem</hi> before the Church of <hi>Rome</hi> was? Read the Scriptures. And was not the Church at <hi>Conſtantinople</hi> preferred before the Church of <hi>Rome?</hi> Read over the Hiſtories again. And for the Church of <hi>Rome</hi> being either Mother Church, Holy Church, or Church of God; her actions and deeds teſtifie againſt her, ſhe's none of the Church of Chriſt; though ſhe pretend for Chriſt yet ſhe is againſt Chriſt, his Faith, Spirit and Life, and ſo Antichriſt; her deeds and works have ſpo<g ref="char:EOLhyphen"/>ken it; which all that be in the Light, Spirit and Life of Chriſt have ſeen and heard. And how can <hi>ignorant people</hi> but <hi>ſmile at you,</hi> as thou ſaieſt, who make Bread and Wine God, which will ſowre and corrupt. Some Scriptures follow here, which ye may read your ſelves. <hi>Iſa.</hi> 8.19. <hi>Pſal.</hi> 115.17.</p>
+         </div>
+         <div type="answer">
+            <head>Something in Anſwer to the Papiſts <hi>Queries.</hi>
+            </head>
+            <p>THou ſayeſt in the 338 <hi>Page, Apoſtacy is not only a renouncing of the Faith of Chriſt, but the very Name and Title of Chriſtianity; and no man will ſay that the Church of</hi> Rome <hi>had ever ſuch a fall as this.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Faith of Chriſt that works by Love, the <hi>Romiſh</hi> Church hath renounced and made ſhipwrack of, and then what remains but a Form of godlineſs, when the Power is denied, and ſuch are to be turned away from; and ſuch a Church as deny the Faith, deny the Power; and to profeſs Chriſt and Chriſtianity in Words, and deny him in Life and Power, is <hi>Anti-Chriſt,</hi> and this the Church of <hi>Rome</hi>
+               <pb facs="tcp:41854:8"/>is fallen into. For many that kept the Title of <hi>Jews</hi> (as you have done the Title of <hi>Chriſtianity</hi>) were found of the <hi>Synagogue of Satan,</hi> ſo will you when you come to be proved and tryed by the faithful, as they that ſaid, <hi>they were Jews and were not, but lyars, blaſphemers, and Synagogues of Satan.</hi>
+            </p>
+            <p>Querie 2. <hi>If the Church of Rome did ever adhere to any ſingular or new Opinion, diſagreeable to the common received Doctrine of the Chri<g ref="char:EOLhyphen"/>ſtian World? I pray you ſatisfie me as to theſe particulars.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Church of <hi>Rome</hi> have ſet up new Opinions by which they force their people to adhere to them contrary to all the Pri<g ref="char:EOLhyphen"/>mitive Churches, as all may ſee who will read but the Decrees, Or<g ref="char:EOLhyphen"/>ders, and Canons in your Church, and that read the Epiſtles that were to the Churches in the Primitive times, to be contrary to the Doctrine of the Primitive times; as your making your God and Chriſt in your Bread and Wine, your Croſſes, Crucifixes, Reliques, making of Miniſters, Pilgrims, Popes, and all your Body of Clergy, together with their Orders and Garments, that are nothing like the Way, Worſhip and Practice of the Primitive Church, which was the firſt among the Apoſtles. And was not <hi>Rome</hi> degenerated when the Biſhop would excommunicate all the Eaſtern Churches, who was reproved ſharply for it?</p>
+            <p>Qu. 3. Thou ſayeſt, <hi>By what General Council was the Church of Rome Condemned, and by what Authority was ſhe Reproved?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Three hundred and ſeven years after Chriſt, the Biſhop of <hi>Rome</hi> denyed Chriſt and ſacrificed to Idols, (mark) <hi>denyed Chriſt,</hi> then he muſt <hi>deny Chriſtianity</hi> when he took up another <hi>Religion;</hi> then what did he bring the People of <hi>Rome</hi> to, when he had ſacrificed to Idols? The Biſhops Name was <hi>Mercelinus,</hi> and he was condemned by a Council of 300 Biſhops. And here thou mayeſt ſee the Autho<g ref="char:EOLhyphen"/>rity that reproved him, before your <hi>Popiſh</hi> Religion, See <hi>Euſebius</hi> in <hi>Pag.</hi> 36. <hi>Chronograp.</hi> Was not the Biſhop of <hi>Rome</hi> the firſt that Decreed, <hi>that Prieſts ſhould not Marry,</hi> in the 399 year of Chriſt?</p>
+            <p>And then the firſt Council held at <hi>Toledo</hi> in <hi>Spain;</hi> in the year of Chriſt 401, Decreed, <hi>That Prieſts ſhould Marry,</hi> and ſo contradict<g ref="char:EOLhyphen"/>ed the Biſhop of <hi>Rome.</hi> And were they not once of the Sect of the <hi>Arrians,</hi> and Reproved? Look in <hi>Euſebius</hi> and you will ſee Re<g ref="char:EOLhyphen"/>proofs enough. Alſo you may read in Scripture, what work the Apo<g ref="char:EOLhyphen"/>ſtle had with the Church of <hi>Rome,</hi> how they were in his day going
+<pb facs="tcp:41854:9"/>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Works of the Law from the Faith. Alſo in the 423 year of Chriſt, how that the Biſhop of <hi>Rome</hi> paſſed the bounds of his Prieſt<g ref="char:EOLhyphen"/>ly Order, in his preſumption, in challenging to himſelf the Secular Power and Authority, who was reproved ſharply; and then a Coun<g ref="char:EOLhyphen"/>cil held in <hi>Affrica,</hi> Decreed, <hi>That no Biſhop ſhould be called, The Head of all Prieſts; That no Appeal ſhould be made at Affrica to any other Bi<g ref="char:EOLhyphen"/>ſhop.</hi> And ſo the Church was Ruled by Councils till <hi>Boniface</hi> the Third, who got up to be Univerſal Biſhop of all the World, by the means of <hi>Phocus</hi> that murdered <hi>Mauritius</hi> the Emperour, his Ma<g ref="char:EOLhyphen"/>ſter, after the 600 year of Chriſt: and then came in the <hi>Pope,</hi> the <hi>Turk,</hi> and the <hi>Devil,</hi> with all their Body, and pelting Ceremonies.</p>
+            <p>Then did the <hi>Pope</hi> loſe the greateſt part of Chriſtendome, and the Emperor the greateſt part of his <hi>Empire;</hi> and ſo in ſucceeding Ages in ſtead of the Bible, you brought into the Church Legends of Lyes, as you may read, <hi>Euſeb. Pag.</hi> 410.</p>
+            <p>Qu. 4. Thou Querieſt, <hi>If ever the Church of Rome divided her ſelf by Schiſme from any other Body of faithful Chriſtians, to break Com<g ref="char:EOLhyphen"/>munion, or went from the Society of any Elder Church? what Company did ſhe leave, from what Body did ſhe go forth, where was the true Church which ſhe forſook?</hi>
+            </p>
+            <p>
+               <hi>Anſw</hi> She went from the practice of the Church in the Primitive times, and from the Body of their Elders in all their dayes, and hath forſaken their Society and Communion, and divided her ſelf from Chriſt the Head, and hath ſet up another, and is divided from all the Apoſtles and Elders. Com<g ref="char:EOLhyphen"/>pare your own Canons which you uſe in your own Church, with the Writ<g ref="char:EOLhyphen"/>ings of the Apoſtles, and you may quickly ſee from what Church, Body and Company of faithful Chriſtians and Elders you are all g<gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> and erred from, into another Faith, Worſhip, Life, Power, Goſpel and Practice, than Chriſt and the Apoſtles were in, in the Primitive times. For what one thing is it that the Church of <hi>Rome</hi> practiſeth, that is agreeable to theirs in all your Worſhip and your Teachers that hold it up, who are maintained by op<g ref="char:EOLhyphen"/>preſſing the People, and are upheld by carnal weapons, and by them are all your dark Doctrines and Inventions ſet up, and by Goals, and Priſons and Tortures. But the Elders, which you have forſaken, and Miniſters and Apo<g ref="char:EOLhyphen"/>ſtles, their Weapons were Spiritual, and not Carnal as yours are; who are ſold under the ſin, far off the Redemption, therefore do you deſtroy ſo many Lives, not knowing what Spirit ye be of, perſecuting them that have the mind of Chriſt, who <hi>came to ſave mens lives, and to love Enemies, and one another,</hi> whoſe Doctrine ye deny.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:41854:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
